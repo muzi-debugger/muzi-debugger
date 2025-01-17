@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muzi
 - I'm a certified Java and AWS Developer Associate
-- 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning REACT
+- 👀 Looking to see cool tech solutions? This is the right place
+- 🌱 I’m interested in Fullstack development
 - ⚡ Fun fact: I'm an animal lover 
 
 <!---
